@@ -26,6 +26,10 @@ Place an order and receive a confirmation message
 The Food Cart App is built using the following technologies:
 
 HTML
+
 CSS
+
 JavaScript
+
 React.js
+
